@@ -61,7 +61,6 @@ public class MPConstants {
             R.color.brown,
             R.color.grey,
             R.color.blue_grey,
-
             R.color.red_300,
             R.color.pink_300,
             R.color.purple_300,
